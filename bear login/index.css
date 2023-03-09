@@ -142,6 +142,7 @@ form .inputGroup1 .helper1 {
   opacity: 0.65;
   pointer-events: none;
   transition: transform 0.2s ease-out, opacity 0.2s linear;
+  margin: 0;
 }
 form .inputGroup1.focusWithText .helper {
   transform: translate(1em, 1.55em) scale(0.6);
